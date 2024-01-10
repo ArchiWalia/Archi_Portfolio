@@ -36,9 +36,9 @@ const skill = [
     link: "https://redux.js.org/",
   },
   {
-    icon: "https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png",
-    title: "Typescript",
-    link: "https://www.typescriptlang.org/",
+    icon: "https://cdn.worldvectorlogo.com/logos/redux.svg",
+    title: "Python",
+    link: "https://redux.js.org/",
   },
   {
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
@@ -52,13 +52,13 @@ const skill = [
   },
   {
     icon: "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
-    title: "Express",
+    title: "Express.js",
     link: "https://expressjs.com/",
   },
   {
-    icon: "https://dgdeepon.github.io/static/media/chakra-ui_title2-400x400-removebg-preview.fc0f93596462cd01a157.png",
-    title: "Chakra UI",
-    link: "https://chakra-ui.com/",
+    icon: "https://cdn.worldvectorlogo.com/logos/redux.svg",
+    title: "Django",
+    link: "https://redux.js.org/",
   },
   
 ];

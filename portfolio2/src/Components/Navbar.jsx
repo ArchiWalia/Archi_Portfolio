@@ -9,7 +9,8 @@ import {
   Stack,
 } from "@chakra-ui/react";
 import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons";
-import Resume from "../Resume/omprakash-kumar-resume.pdf"
+import Resume from "../Resume/ARCHI_RESUME_2024.pdf"
+
 
 const Links = [
   { title: "Home", href: "#home", class: "nav-link home" },
@@ -21,10 +22,11 @@ const Links = [
   const handleDownload = () => {
     const link = document.createElement("a");
     link.href = Resume;
-    link.download = "omprakash-kumar-resume.pdf";
+    link.download = "ARCHI_RESUME_2024.pdf";
     link.click();
     window.open(
-      "https://drive.google.com/file/d/1qn76EIZ2ow8gaFKgo5zBJBf5prkkGj2K/view?usp=sharing",
+      "https://drive.google.com/file/d/1K2k8YtVQMzi5Dg6AzzdIfOSsga6xutyq/view?usp=sharing" ,
+
       "_blank"
     );
   };

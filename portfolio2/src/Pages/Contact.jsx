@@ -55,25 +55,25 @@ export default function Contact() {
               boxSize="15px"
               children={<FontAwesomeIcon icon={faPhoneVolume} />}
             />
-            <Text color="white" id="contact-phone">+91- 8788364473</Text>
+            <Text color="white" id="contact-phone">+91- 9816767522</Text>
           </HStack>
           <HStack>
             <TagLeftIcon
               boxSize="15px"
               children={<FontAwesomeIcon icon={faEnvelope} />}
             />
-            <Text id="contact-email" color="white">omprakashkumar552@gmail.com</Text>
+            <Text id="contact-email" color="white">archiwalia948@gmail.com</Text>
           </HStack>
           <HStack>
             <TagLeftIcon
               boxSize="15px"
               children={<FontAwesomeIcon icon={faLocationDot} />}
             />
-            <Text color="white">Patna, Bihar</Text>
+            <Text color="white">Chandigarh, India</Text>
           </HStack>
           <HStack spacing={4}>
             <Box width={"30px"} postion="relative">
-              <Link id="contact-linkedin" href="https://www.linkedin.com/in/omprkash-kumar-94a82012b/">
+              <Link id="contact-linkedin" href="https://www.linkedin.com/in/archiwalia0201/">
                 <Image
                   width={"100%"}
                   src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png"
@@ -82,7 +82,7 @@ export default function Contact() {
               </Link>
             </Box>
             <Box width={"30px"}>
-              <Link  id="contact-github" href="https://github.com/omprakash8788">
+              <Link  id="contact-github" href="https://github.com/CodeGemmy">
                 <Image
                   width={"100%"}
                   src="https://cdn-icons-png.flaticon.com/512/270/270798.png"

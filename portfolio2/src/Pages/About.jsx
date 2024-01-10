@@ -25,8 +25,8 @@ export const About = () => {
                 An aspiring web developer, a lifelong learner, skilled in
                 front-end and back-end web development and passionate about
                 creating responsive and user-friendly websites. Eager to begin
-                career as a web developer.Currently learing CSS,
-                JavaScript,React,HTML,Chakra UI, Nodejs.
+                career as a Software developer.Currently learing Node.js,
+                Django and Express.js.
               </Text>
             </Box>
             <Box
@@ -35,19 +35,19 @@ export const About = () => {
               id="user-detail-name"
             >
               <Text color="white" textAlign="left">
-                <span fontWeight={500}>Masai School, Bangalore</span> <br />
-                Full Stack Web Development (Full Time)
+                <span fontWeight={500}>CBitss Institute</span> <br />
+                Full Stack Web Development 
                 <br />
-                Aug,2022 - Present <br />
-                Patna, Bihar <br />
-                Bachelor of Computer Applications (BCA) Aug,2022 - May,2025
+                Mar 2023 - Sep 2023 <br />
+                Chandigarh, India <br />
+                B.tech (Computer Science) Aug 2019 - June 2023
               </Text>
             </Box>
             <Box width={{ base: "200px", sm: "350px", md: "430px" }} m="5px">
               <Image
                 id="github-stats-card"
                 width={{ base: "200px", sm: "350px", md: "430px" }}
-                src="https://github-readme-streak-stats.herokuapp.com/?user=omprakash8788&theme=dark" alt="omprakash8788"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=CodeGemmy&theme=dark" alt="CodeGemmy"
               />
             </Box>
 
@@ -55,7 +55,7 @@ export const About = () => {
               <Image
                 id="github-top-langs"
                 width={{ base: "200px", sm: "350px", md: "430px" }}
-                src="https://github-readme-stats.vercel.app/api?username=omprakash8788&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="omprakash8788"
+                src="https://github-readme-stats.vercel.app/api?username=CodeGemmy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CodeGemmy"
               />
             </Box>
 
@@ -63,7 +63,7 @@ export const About = () => {
               <Image
                 id="github-streak-stats"
                 width={{ base: "200px", sm: "350px", md: "430px" }}
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakash8788&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="omprakash8788"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeGemmy&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CodeGemmy"
               />
             </Box>
           </Grid>

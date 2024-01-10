@@ -14,16 +14,20 @@ import {
 import TypeWritter from "../Components/TypeWritter";
 import Contact from "./Contact";
 import Project from "./Project";
-import Om from '../images/om.png.jpg'
-import Resume from "../Resume/omprakash-kumar-resume.pdf"
+import Archi from '../images/image.png'
+// import Resume from "../Resume/ARCHI_RESUME.pdf"
+import Resume from "../Resume/ARCHI_RESUME_2024.pdf"
+
 
 const handleDownload = () => {
     const link = document.createElement("a");
     link.href = Resume;
-    link.download = "omprkash-kumar-resume.pdf";
+    link.download = "ARCHI_RESUME_2024.pdf";
+
+
     link.click();
     window.open(
-      "https://drive.google.com/file/d/1qn76EIZ2ow8gaFKgo5zBJBf5prkkGj2K/view?usp=sharing",
+      "https://drive.google.com/file/d/1K2k8YtVQMzi5Dg6AzzdIfOSsga6xutyq/view?usp=sharing" ,
 
       "_blank"
     );
@@ -45,7 +49,7 @@ const HomePage = () => {
                 <Box display={"flex"} gap={2}>
                   <Text color={"blue.400"}> Hey, </Text>{" "}
                   <Text color={"red"} id="user-detail-name">
-                    I'm Omprkash
+                    I'm Archi
                   </Text>
                 </Box>
               </Text>
@@ -83,9 +87,10 @@ const HomePage = () => {
         <Flex flex={1} justifyContent={"center"} alignItems={"center"}>
           <Image
             className="home-img"
+            width={"500px"}
             objectFit={"cover"}
-            h={["250px", "300px", "350px"]}
-            src={Om}
+            // h={["250px", "300px", "350px"]}
+            src={Archi}
             borderRadius={"5%"}
           />
         </Flex>
