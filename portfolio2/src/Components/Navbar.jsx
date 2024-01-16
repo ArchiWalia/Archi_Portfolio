@@ -90,7 +90,7 @@ export default function Navbar() {
                     color: "white",
                     bg: "#e4002b",
                   }}
-                  colorScheme="blue"
+                  colorScheme="pink"
                   id="resume-button-1"
                   onClick={handleDownload}
                 >

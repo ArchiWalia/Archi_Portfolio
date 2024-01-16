@@ -91,8 +91,8 @@ const projectsArray = [
   {
     logo: Portifolio3,
     title: "Fashion Bazar",
-    github: "https://github.com/omprakash8788/Fashion-bazar_Clone",
-    live_Link: "https://chipper-sprinkles-8ed2d8.netlify.app/",
+    github: "https://github.com/CodeGemmy/Shopping",
+    live_Link: "https://659ef21eee891d1d2d763c75--silly-manatee-ac5edc.netlify.app/",
     description:
       "An ECommerce website is an online platform where businesses can sell their products or services to customers over the internet. Shoppers can browse a wide range of products.",
 

@@ -36,7 +36,7 @@ const skill = [
     link: "https://redux.js.org/",
   },
   {
-    icon: "https://cdn.worldvectorlogo.com/logos/redux.svg",
+    icon: "https://cdn.worldvectorlogo.com/logos/python.svg",
     title: "Python",
     link: "https://redux.js.org/",
   },
@@ -51,12 +51,12 @@ const skill = [
     link: "https://nodejs.org/en",
   },
   {
-    icon: "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
+    icon: "https://cdn.worldvectorlogo.com/logos/express.svg",
     title: "Express.js",
     link: "https://expressjs.com/",
   },
   {
-    icon: "https://cdn.worldvectorlogo.com/logos/redux.svg",
+    icon: "https://cdn.worldvectorlogo.com/logos/django.svg",
     title: "Django",
     link: "https://redux.js.org/",
   },

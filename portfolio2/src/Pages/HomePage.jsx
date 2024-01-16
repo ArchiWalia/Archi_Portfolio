@@ -47,22 +47,22 @@ const HomePage = () => {
             <Heading fontSize={{ base: "3xl", md: "4xl", lg: "5xl" }}>
               <Text>
                 <Box display={"flex"} gap={2}>
-                  <Text color={"blue.400"}> Hey, </Text>{" "}
-                  <Text color={"red"} id="user-detail-name">
+                  <Text color={"pink.400"}> Hey, </Text>{" "}
+                  <Text color={"lavender"} id="user-detail-name">
                     I'm Archi
                   </Text>
                 </Box>
               </Text>
-              <Text color={"blue.400"} as={"span"} fontSize={"4xl"}>
+              <Text color={"pink.400"} as={"span"} fontSize={"4xl"}>
                 <TypeWritter />
               </Text>{" "}
             </Heading>
             <Text
               fontSize={{ base: "md", lg: "lg" }}
-              color={"#fff"}
+              color={"lavender"}
               id="user-detail-intro"
             >
-              Self-driven, quick starter, passionate programmer with a curious
+              Industrious, quick starter, passionate programmer with a curious
               mind who enjoys solving problems and working on new projects.
             </Text>
             <Stack direction={{ base: "column", md: "row" }} spacing={4}>
