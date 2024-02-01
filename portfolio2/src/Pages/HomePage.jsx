@@ -14,8 +14,8 @@ import {
 import TypeWritter from "../Components/TypeWritter";
 import Contact from "./Contact";
 import Project from "./Project";
-import Archi from '../images/image.png'
-import Resume from "../Resume/RESUME OF ARCHI_WALIA.pdf"
+import Archi from '../images/port.png';
+import Resume from "../Resume/RESUME OF ARCHI_WALIA.pdf";
 
 
 const handleDownload = () => {
@@ -26,7 +26,8 @@ const handleDownload = () => {
 
     link.click();
     window.open(
-      "https://drive.google.com/file/d/1UzmMYWTowHEjLGtePESE1Q1hTQyPVa2w/view?usp=sharing" ,
+      "https://drive.google.com/file/d/1UzmMYWTowHEjLGtePESE1Q1hTQyPVa2w/view?usp=sharing"
+      ,
 
       "_blank"
     );
