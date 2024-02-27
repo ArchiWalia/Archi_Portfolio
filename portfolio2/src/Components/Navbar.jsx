@@ -9,7 +9,8 @@ import {
   Stack,
 } from "@chakra-ui/react";
 import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons";
-import Resume from "../Resume/RESUME OF ARCHI_WALIA.pdf"
+// import Resume from "../Resume/RESUME OF ARCHI_WALIA.pdf"
+import Resume from "../Resume/Archi_Walia.pdf"
 
 
 const Links = [
@@ -22,10 +23,10 @@ const Links = [
   const handleDownload = () => {
     const link = document.createElement("a");
     link.href = Resume;
-    link.download = "RESUME OF ARCHI_WALIA.pdf";
+    link.download = "Archi_Walia.pdf";
     link.click();
     window.open(
-      "https://drive.google.com/file/d/1UzmMYWTowHEjLGtePESE1Q1hTQyPVa2w/view?usp=sharing" ,
+      "https://drive.google.com/file/d/1YTCJswI6ycy4Vmv9qDX73nZiWQKx5uUe/view?usp=sharing" ,
 
       "_blank"
     );

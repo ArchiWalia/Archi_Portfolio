@@ -13,7 +13,7 @@ export default function MyGithub() {
       <Box>
         <Center m={["20px", "30px", "50px"]} color="blue.400">
           <GitHubCalendar
-            username="omprakash8788"
+            username="ArchiWalia"
             hideTotalCount={"false"}
             color={"blue.400"}
           />

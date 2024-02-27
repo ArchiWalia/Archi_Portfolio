@@ -82,7 +82,7 @@ export default function Contact() {
               </Link>
             </Box>
             <Box width={"30px"}>
-              <Link  id="contact-github" href="https://github.com/CodeGemmy">
+              <Link  id="contact-github" href="https://github.com/ArchiWalia">
                 <Image
                   width={"100%"}
                   src="https://cdn-icons-png.flaticon.com/512/270/270798.png"

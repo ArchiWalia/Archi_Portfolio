@@ -36,36 +36,43 @@ export const About = () => {
             >
               <Text color="white" textAlign="left">
                 <span fontWeight={500}>CBitss Institute</span> <br />
-                Full Stack Web Development 
+                Full Stack Web Development
                 <br />
-                Mar 2023 - Sep 2023 <br />
-                Chandigarh, India <br />
-                B.tech (Computer Science) Aug 2019 - June 2023
+                April 2023 - Nov 2023
+                 <br />
+                 Chandigarh, India <br />
+                 <br />
+
+                <h1>Punjab Technical University</h1>
+                <h1>B.tech (Computer Science) </h1>
+                Aug 2019 - June 2023
+                <br />
+                Chandigarh, India
               </Text>
             </Box>
-            <Box width={{ base: "200px", sm: "350px", md: "430px" }} m="5px">
+            {/* <Box width={{ base: "200px", sm: "350px", md: "430px" }} m="5px">
               <Image
                 id="github-stats-card"
                 width={{ base: "200px", sm: "350px", md: "430px" }}
-                src="https://github-readme-streak-stats.herokuapp.com/?user=CodeGemmy&theme=dark" alt="CodeGemmy"
+                src="https://github.com/ArchiWalia" alt="ArchiWalia"
               />
-            </Box>
+            </Box> */}
 
-            <Box width={{ base: "200px", sm: "350px", md: "430px" }} m="5px">
+            {/* <Box width={{ base: "200px", sm: "350px", md: "430px" }} m="5px">
               <Image
                 id="github-top-langs"
                 width={{ base: "200px", sm: "350px", md: "430px" }}
-                src="https://github-readme-stats.vercel.app/api?username=CodeGemmy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CodeGemmy"
+                src="https://github-readme-stats.vercel.app/api?username=CodeGemmy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ArchiWalia"
               />
-            </Box>
+            </Box> */}
 
-            <Box width={{ base: "200px", sm: "350px", md: "430px" }} m="5px">
+            {/* <Box width={{ base: "200px", sm: "350px", md: "430px" }} m="5px">
               <Image
                 id="github-streak-stats"
                 width={{ base: "200px", sm: "350px", md: "430px" }}
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeGemmy&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CodeGemmy"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeGemmy&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ArchiWalia"
               />
-            </Box>
+            </Box> */}
           </Grid>
         </Center>
         <MyGithub />
